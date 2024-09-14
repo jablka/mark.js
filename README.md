@@ -1,3 +1,7 @@
+# this is a _fork_ of `mark.js`  
+# I intend to document some issues I found, since original repo has no "Issues" section.
+# See my "Issues" tab.
+
 # mark.js
 
 ##### Highlight keywords using JavaScript. Intended for every use case. <br> Can e.g. be used to mark text in search results.
